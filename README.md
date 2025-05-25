@@ -11,7 +11,7 @@ Technologies & Tools
 - Web: ASP.NET Core MVC, HTML, CSS, JavaScript
 
 GitHub Stats
-![Bongani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bongane-rampai&show_icons=true&theme=default)
+![Bongani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bongane-Rampai&show_icons=true&theme=default)
 
 How to reach me
 - Email: [bonganerampai@gmail.com](mailto:bonganerampai@gmail.com)
